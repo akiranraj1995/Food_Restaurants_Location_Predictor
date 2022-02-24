@@ -11,7 +11,7 @@ Evaluating the model,
 Used pickle file to dump and load the model,
 Made a Web Application using Streamlit.
 
-IDE (Integrated Development Environment Used)- Spyder
-DATA VISUALIZATION PACKAGES used- matplotlib,Seaborn
-MACHINE LEARNING ALGORITHM used- Linear Regression
-WEB APPLICATION TOOL Used- Streamlit
+IDE (Integrated Development Environment Used)- Spyder,
+DATA VISUALIZATION PACKAGES used- matplotlib,Seaborn ,
+MACHINE LEARNING ALGORITHM used- Linear Regression,
+WEB APPLICATION TOOL Used- Streamlit,
