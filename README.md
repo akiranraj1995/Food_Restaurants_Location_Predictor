@@ -10,3 +10,8 @@ Making prediction,
 Evaluating the model,
 Used pickle file to dump and load the model,
 Made a Web Application using Streamlit.
+
+IDE(INTEGRATED DEVELOPMENT ENVIRONMENT USED- Spyder
+DATA VISUALIZATION PACKAGES LIKE- matplotlib,Seaborn
+MACHINE LEARNING ALGORITHM- Linear Regression
+WEB APPLICATION TOOL USED- Streamlit
