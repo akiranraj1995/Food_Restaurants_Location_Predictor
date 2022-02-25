@@ -1,6 +1,6 @@
 # Food_Restaurants_Location_Predictor
 
-This is an End-to-End Data Science project on Food Restaurants Location Predictor based on Population and Profit generated.
+This is an End-to-End Data Science Portfolio Project on Food Restaurants Location Predictor based on Population and Profit generated.
 The Dataset is taken from UCI ML Repository.
 
 DATA SCIENCE LIFE CYCLE:
