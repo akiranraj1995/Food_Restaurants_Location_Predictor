@@ -15,3 +15,5 @@ IDE (Integrated Development Environment Used)- Spyder,
 DATA VISUALIZATION PACKAGES used- matplotlib,Seaborn ,
 MACHINE LEARNING ALGORITHM used- Linear Regression,
 WEB APPLICATION TOOL Used- Streamlit,
+
+And Cloud Deployed Food_Restaurants_Location_Predictor on Heroku Platform Link: https://restaurant-location-app.herokuapp.com/ 
