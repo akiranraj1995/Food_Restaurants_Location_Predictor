@@ -17,12 +17,12 @@ DATA SCIENCE LIFE CYCLE:
 
 TOOLS USED:
 ----------------------------------------------
-IDE (Integrated Development Environment Used)- Spyder,
-Data Visualization packages used- Matplotlib,Seaborn
-MACHINE LEARNING ALGORITHM used- Scikit-Learn Linear Regression,
-WEB APPLICATION TOOL Used- Streamlit,
-Image Uploaded package- Pillow
-Cloud Deployment- Heroku
+1.IDE (Integrated Development Environment Used)- Spyder,
+2.Data Visualization packages used- Matplotlib,Seaborn
+3.MACHINE LEARNING ALGORITHM used- Scikit-Learn Linear Regression,
+4.WEB APPLICATION TOOL Used- Streamlit,
+5.Image Uploaded package- Pillow
+6.Cloud Deployment- Heroku
 
 CLOUD DEPLOYED WEB APPLICATION:
 --------------------------------------------------
