@@ -9,6 +9,8 @@ BRANCH:
 Main Branch is MASTER branch
 Deployed on Cloud
 
+# DATA SCIENCE LIFE CYCLE:
+
 
 
 # CLOUD DEPLOYED WEB APPLICATION:
