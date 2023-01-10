@@ -1,4 +1,4 @@
-# Food_Restaurants_Location_Predictor
+# To put up a Store Location Predictor using Machine Learning
 
 A BRIEF SUMMARY ABOUT THE PROJECT: 
 
