@@ -1,4 +1,4 @@
-# To put up a Store Location Predictor using Machine Learning
+# TO PUT UP A STORE LOCATION PREDICTOR USING MACHINE LEARNING 
 
 A BRIEF SUMMARY ABOUT THE PROJECT: 
 
